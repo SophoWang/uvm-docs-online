@@ -2,7 +2,9 @@
 UVM Docs Online
 ===============
 
-`uvm-1.2 <_static/uvm-1.2/docs/html/index.html>`_
+`uvm-1.1d docs <_static/uvm-1.1d/docs/html/index.html>`_
+
+`uvm-1.2 docs <_static/uvm-1.2/docs/html/index.html>`_
 
 `uvm users guide v1.2 <_static/uvm-1.2/uvm_users_guide_1.2.pdf>`_
 
