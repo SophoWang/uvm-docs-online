@@ -2,6 +2,8 @@
 UVM Docs Online
 ===============
 
+`uvm-1.0p1 docs <_static/uvm-1.0p1/docs/html/index.html>`_
+
 `uvm-1.1a docs <_static/uvm-1.1a/docs/html/index.html>`_
 
 `uvm-1.1b docs <_static/uvm-1.1b/docs/html/index.html>`_
