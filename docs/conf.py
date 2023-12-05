@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "uvm-docs-online"
+copyright = "2023, sophowang"
+author = "maomao"
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,6 +31,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
+    "sphinx_rtd_theme",
 ]
 
 intersphinx_mapping = {
